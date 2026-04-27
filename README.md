@@ -187,29 +187,6 @@ delay(5000);
 
 ---
 
-## Serial Monitor Output
 
-Example output:
-
-```text
-System Starting...
-System Ready
-Bottle Count: 1
-Bottle Count: 2
-Bottle Count: 3
-Bottle Count: 4
-4 Bottles Detected - Starting Relay Sequence
-Relay2 (Lock) ON
-Relay3 (Catch) ON
-Relay4 (Actuator) ON
-Relay1 (Pump) ON
-Relay1 (Pump) OFF
-Relay4 (Actuator) OFF
-Relay3 (Catch) OFF
-Relay2 (Lock) OFF
-Cycle Complete. Resetting...
-```
-
----
 
 
